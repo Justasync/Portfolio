@@ -42,7 +42,7 @@ footer {
     width: 100%;
 }
 
-@media (max-width: 600px) {
+(max-width: 600px) {
     nav {
         display: block;
     }
